@@ -12,8 +12,12 @@ People are born with unique genetic structures, meaning they are initially bette
 | Learn from criticisem| Ignore|
 
 
+## reminders to myself of how to keep myself in a growth mindset:
 
-
+* Doesn’t give up easily
+ * Sees mistakes as opportunities for learning
+* Embraces difficult tasks and challenges
+* Considers feedback and criticism carefully
 
 
 
