@@ -7,7 +7,7 @@ People are born with unique genetic structures, meaning they are initially bette
 * Inspired by others people success 
 
 
-# To be a Growth mindset person you should :
+
 * Work hard 
 * Self-confidence and capabilities
 * To be patient
