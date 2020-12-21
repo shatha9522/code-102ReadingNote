@@ -12,7 +12,11 @@ People are born with unique genetic structures, meaning they are initially bette
 | Learn from criticisem| Ignore|
 
 
-## reminders to myself of how to keep myself in a growth mindset:
+
+![image](https://user-images.githubusercontent.com/76395323/102800579-ec985c80-4368-11eb-809d-7ffb319ae001.jpg)
+
+## Reminders to myself of how to keep myself in a growth mindset:
+
 
 * Doesn’t give up easily
  * Sees mistakes as opportunities for learning
