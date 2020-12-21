@@ -22,6 +22,7 @@ People are born with unique genetic structures, meaning they are initially bette
 * Embraces difficult tasks and challenges
 * Considers feedback and criticism carefully
 
+![image2](https://user-images.githubusercontent.com/76395323/102801645-549b7280-436a-11eb-8715-50f58e85c7df.jpg)
 
 
 
