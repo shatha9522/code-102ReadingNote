@@ -39,5 +39,5 @@ People are born with unique genetic structures, meaning they are initially bette
 | About Me | About Me |
 | Mark Down | Mark Down |
 | Github | Github | 
-|read04 | /mnt/c/Users/Shatha/102/reading-note/read04|
-|raed06|/mnt/c/Users/Shatha/102/reading-note/read06b.md|
+| read04 | /mnt/c/Users/Shatha/102/reading-note/read04 |
+| raed06| /mnt/c/Users/Shatha/102/reading-note/read06b.md |
