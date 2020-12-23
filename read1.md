@@ -10,3 +10,5 @@ is a lightweight markup syntaxes it's easy to write and its readable so it's a g
 | About Me | About Me |
 | Mark Down | Mark Down |
 | Github | Github | 
+|read04 | /mnt/c/Users/Shatha/102/reading-note/read04|
+|raed06|/mnt/c/Users/Shatha/102/reading-note/read06b.md|
